@@ -4,6 +4,7 @@ It takes 5 pictures of Honka and lets them fall and rotate randomly
 
 # Requies
 
+* python >=3.9.6
 * pygame
 
 `python -m pip install pygame`
