@@ -2,6 +2,8 @@
 
 It takes 5 pictures of Honka and lets them fall and rotate randomly
 
+![Example screenshot](https://github.com/SozinovD/honk_screen/blob/main/Screenshot_1.png)
+
 # Requies
 
 * python >=3.9.6
